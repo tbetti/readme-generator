@@ -6,8 +6,9 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#test)
+  * [Tests](#tests)
   * [Questions](#questions)
+  * [Contact](#contact)
   
   ## Description
   s
@@ -19,15 +20,15 @@
   f
 
   ## License
-  ![licenseShield](https://img.shields.io/badge/license-MIT-blue)
-  This license is registered under...
+  
+  undefined
 
   ## Contributing
-  g
+  d
   
   ## Tests
-  e
+  w
 
   ## Contact
-  * __GitHub:__ [github.com/w](https://github.com/w)
-  * [__Email:__ s](mailto:s)
+  * __GitHub:__ [github.com/d](https://github.com/d)
+  * __Email:__ [d](mailto:d)
