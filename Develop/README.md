@@ -1,4 +1,4 @@
-# a
+# wjre
   
   ## Table of Contents
   * [Description](#description)
@@ -11,24 +11,24 @@
   * [Contact](#contact)
   
   ## Description
-  s
+  wher
 
   ## Installation
-  d
+  sich
 
   ## Usage
-  f
+  lkwj
 
   ## License
-  
-  undefined
+  ![licenseShield](https://img.shields.io/badge/license-GPL-blue)
+  This project is registered under the [GPL License](/LICENSE).
 
   ## Contributing
-  d
+  tie
   
   ## Tests
-  w
+  hdfiw
 
   ## Contact
-  * __GitHub:__ [github.com/d](https://github.com/d)
-  * __Email:__ [d](mailto:d)
+  * __GitHub:__ [github.com/jfie](https://github.com/jfie)
+  * __Email:__ [bije](mailto:bije)
