@@ -44,6 +44,7 @@ function renderLicenseTableofContents(license) {
   return `* [License](#license)`;
 }
 
+// Create a list when input items are separated by a comma
 function renderList(list){
   const listArr = [];
   list = list.split(',');
